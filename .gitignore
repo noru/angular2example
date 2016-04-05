@@ -1,0 +1,10 @@
+
+# IntelliJ project files
+/typings
+/node_modules
+.idea
+*.iml
+out
+gen
+app/*.js
+app/*.js.map
